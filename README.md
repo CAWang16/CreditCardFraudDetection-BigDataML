@@ -10,7 +10,7 @@ Full report: [credit_card_fraud_detection_big_data_ml.pdf](credit_card_fraud_det
 
 ## Dataset
 
-**Credit Card Transactions** CSV stored in S3 (`s3://csp554-project3/credit_card_transactions.csv`).
+**Credit Card Transactions** CSV stored in S3 (`s3://csp554-project3/credit_card_transactions.csv`). (Currently removed)
 
 - Heavily imbalanced: ~0.58% of transactions are fraudulent
 - Raw columns include: transaction timestamp, cardholder location, merchant location, transaction amount, cardholder demographics, and merchant category
